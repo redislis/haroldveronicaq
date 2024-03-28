@@ -1,0 +1,33 @@
+{
+  "name": "haroldveronicaq",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "haroldveronicaq.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/redislis/haroldveronicaq"
+  },
+  "website": "https://github.com/redislis/haroldveronicaq.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "redislis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redislis/haroldveronicaq/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/redislis/haroldveronicaq#readme",
+  "dependencies": {
+    "gallacherjeromep": "1.0.2"
+  }
+}
